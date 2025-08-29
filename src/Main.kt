@@ -57,6 +57,11 @@ fun main() {
 //  val class1 = CollectionTest();
 //  class1.sample1();
   CollectionTest().sample4()
+
+
+  println("============ sum 함수 사용 =============")
+  CollectionTest().sample4()
+
 }
 
 // 함수의 반환 타입을 : Int 이런 식으로 표기
